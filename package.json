@@ -1,0 +1,23 @@
+{
+  "name": "400gt",
+  "version": "1.0.0",
+  "description": "Hackathon",
+  "main": "createActivity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@work-github.com:resilientplc/400gt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.332.0",
+    "moment": "^2.22.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^3.4.4"
+  }
+}
